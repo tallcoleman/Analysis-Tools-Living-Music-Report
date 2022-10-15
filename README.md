@@ -1,7 +1,5 @@
 # Living Music Report - analysis tools
 
-[View on NBviewer]()
-
 Imports and compiles data tables from the Living Music Report data folders which are published on github: [ciaranframe/livingmusicreport](https://github.com/ciaranframe/livingmusicreport)
 
 ## Errata in the original data set
